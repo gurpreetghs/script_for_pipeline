@@ -1,0 +1,149 @@
+{
+  "agentSpecification": null,
+  "buildNumber": "20220222.1",
+  "buildNumberRevision": 1,
+  "controller": null,
+  "definition": {
+    "createdDate": null,
+    "drafts": [],
+    "id": 33,
+    "name": "dur",
+    "path": "\\",
+    "project": {
+      "abbreviation": null,
+      "defaultTeamImageUrl": null,
+      "description": "simple devops pipeline",
+      "id": "333eb978-7d06-443a-a4a7-ac8fd4b5f31b",
+      "lastUpdateTime": "2022-02-09T08:14:13.643000+00:00",
+      "name": "devdemo",
+      "revision": 20,
+      "state": "wellFormed",
+      "url": "https://dev.azure.com/preetgurgsr/_apis/projects/333eb978-7d06-443a-a4a7-ac8fd4b5f31b",
+      "visibility": "private"
+    },
+    "queueStatus": "enabled",
+    "revision": 1,
+    "type": "build",
+    "uri": "vstfs:///Build/Definition/33",
+    "url": "https://dev.azure.com/preetgurgsr/333eb978-7d06-443a-a4a7-ac8fd4b5f31b/_apis/build/Definitions/33?revision=1"
+  },
+  "deleted": null,
+  "deletedBy": null,
+  "deletedDate": null,
+  "deletedReason": null,
+  "demands": null,
+  "finishTime": null,
+  "id": 73,
+  "keepForever": false,
+  "lastChangedBy": {
+    "descriptor": "msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "directoryAlias": null,
+    "displayName": "gurpreet singh",
+    "id": "50548335-7df6-6077-99a4-efce6f192fb9",
+    "imageUrl": "https://dev.azure.com/preetgurgsr/_apis/GraphProfile/MemberAvatars/msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "inactive": null,
+    "isAadIdentity": null,
+    "isContainer": null,
+    "isDeletedInOrigin": null,
+    "profileUrl": null,
+    "uniqueName": "preetgur.gsr@outlook.com",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A9e939099-b3ed-4c31-9a3f-c30515101d6b/_apis/Identities/50548335-7df6-6077-99a4-efce6f192fb9"
+  },
+  "lastChangedDate": "2022-02-22T16:38:47.700000+00:00",
+  "logs": {
+    "id": 0,
+    "type": "Container",
+    "url": "https://dev.azure.com/preetgurgsr/333eb978-7d06-443a-a4a7-ac8fd4b5f31b/_apis/build/builds/73/logs"
+  },
+  "orchestrationPlan": {
+    "orchestrationType": null,
+    "planId": "0e59b76a-e19c-42d8-83ac-dfaa6b7ebcc1"
+  },
+  "parameters": null,
+  "plans": [
+    {
+      "orchestrationType": null,
+      "planId": "0e59b76a-e19c-42d8-83ac-dfaa6b7ebcc1"
+    }
+  ],
+  "priority": "normal",
+  "project": {
+    "abbreviation": null,
+    "defaultTeamImageUrl": null,
+    "description": "simple devops pipeline",
+    "id": "333eb978-7d06-443a-a4a7-ac8fd4b5f31b",
+    "lastUpdateTime": "2022-02-09T08:14:13.643000+00:00",
+    "name": "devdemo",
+    "revision": 20,
+    "state": "wellFormed",
+    "url": "https://dev.azure.com/preetgurgsr/_apis/projects/333eb978-7d06-443a-a4a7-ac8fd4b5f31b",
+    "visibility": "private"
+  },
+  "properties": {},
+  "quality": null,
+  "queue": {
+    "id": 18,
+    "name": "Azure Pipelines",
+    "pool": {
+      "id": 9,
+      "isHosted": true,
+      "name": "Azure Pipelines"
+    },
+    "url": null
+  },
+  "queueOptions": null,
+  "queuePosition": null,
+  "queueTime": "2022-02-22T16:38:47.218342+00:00",
+  "reason": "manual",
+  "repository": {
+    "checkoutSubmodules": false,
+    "clean": null,
+    "defaultBranch": null,
+    "id": "b7488a14-bad1-4906-ab6c-9036543fd83b",
+    "name": "pp",
+    "properties": null,
+    "rootFolder": null,
+    "type": "TfsGit",
+    "url": "https://dev.azure.com/preetgurgsr/devdemo/_git/pp"
+  },
+  "requestedBy": {
+    "descriptor": "msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "directoryAlias": null,
+    "displayName": "gurpreet singh",
+    "id": "50548335-7df6-6077-99a4-efce6f192fb9",
+    "imageUrl": "https://dev.azure.com/preetgurgsr/_apis/GraphProfile/MemberAvatars/msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "inactive": null,
+    "isAadIdentity": null,
+    "isContainer": null,
+    "isDeletedInOrigin": null,
+    "profileUrl": null,
+    "uniqueName": "preetgur.gsr@outlook.com",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A9e939099-b3ed-4c31-9a3f-c30515101d6b/_apis/Identities/50548335-7df6-6077-99a4-efce6f192fb9"
+  },
+  "requestedFor": {
+    "descriptor": "msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "directoryAlias": null,
+    "displayName": "gurpreet singh",
+    "id": "50548335-7df6-6077-99a4-efce6f192fb9",
+    "imageUrl": "https://dev.azure.com/preetgurgsr/_apis/GraphProfile/MemberAvatars/msa.NTA1NDgzMzUtN2RmNi03MDc3LTk5YTQtZWZjZTZmMTkyZmI5",
+    "inactive": null,
+    "isAadIdentity": null,
+    "isContainer": null,
+    "isDeletedInOrigin": null,
+    "profileUrl": null,
+    "uniqueName": "preetgur.gsr@outlook.com",
+    "url": "https://spsprodcus4.vssps.visualstudio.com/A9e939099-b3ed-4c31-9a3f-c30515101d6b/_apis/Identities/50548335-7df6-6077-99a4-efce6f192fb9"
+  },
+  "result": null,
+  "retainedByRelease": false,
+  "sourceBranch": "refs/heads/master",
+  "sourceVersion": "38bc3cd4b81001b5164c342b391a8805f19e2322",
+  "startTime": null,
+  "status": "notStarted",
+  "tags": [],
+  "triggerInfo": {},
+  "triggeredByBuild": null,
+  "uri": "vstfs:///Build/Build/73",
+  "url": "https://dev.azure.com/preetgurgsr/333eb978-7d06-443a-a4a7-ac8fd4b5f31b/_apis/build/Builds/73",
+  "validationResults": []
+}
